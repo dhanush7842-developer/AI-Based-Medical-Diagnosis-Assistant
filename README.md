@@ -31,7 +31,19 @@ pip install -r requirements.txt
 # 3. Place your CSVs in the same folder, then run
 python app.py
 # → opens at http://127.0.0.1:7860
+# (Ensure app.py uses server_name="127.0.0.1" for local testing, 
+#  or server_name="0.0.0.0" if deploying)
 ```
+
+---
+
+## Deployment (Render)
+
+This repository includes a `render.yaml` configuration file for easy deployment on **Render**. 
+
+1. Connect your GitHub repository to Render.
+2. Select **Blueprint** and use the provided `render.yaml`.
+3. The app will automatically configure its environment, install dependencies, and run via `python app.py` on your assigned Render domain.
 
 ---
 
