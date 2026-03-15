@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 # 3. Place your CSVs in the same folder, then run
 python app.py
-# → opens at http://localhost:7860
+# → opens at http://127.0.0.1:7860
 ```
 
 ---
