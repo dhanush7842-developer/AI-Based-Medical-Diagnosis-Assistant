@@ -2,6 +2,8 @@
 
 > **Educational use only. Not a substitute for professional medical advice.**
 
+🟢 **Live Application:** [https://ai-based-medical-diagnosis-assistant-nsko.onrender.com](https://ai-based-medical-diagnosis-assistant-nsko.onrender.com)
+
 ---
 
 ## Project structure
